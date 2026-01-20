@@ -14,4 +14,4 @@ This repository contains certified AT&T geolocation data and interactive visual 
 
 **View the Report:** Simply open the HTML report in any browser to view the interactive map and visualizations. All files are organized for easy reference. 
 
-**Run the Analysis Yourself:** If you prefer to explore or modify the analysis, you can copy the Jupyter Notebook (.ipynb file) into your own Jupyter environment and run it there.
+**Reproducibility:** The Jupyter Notebook (.ipynb) contains all code required to reproduce the analysis and visualizations. Reviewers may download or copy the notebook into their own Jupyter environmnent and run it directly using the included CSV file. 
